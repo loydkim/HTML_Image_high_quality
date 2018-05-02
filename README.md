@@ -12,6 +12,6 @@ Develop environment.
 You can watch how to make it in my youtube channel and blog !
 
 - Youtube link : https://youtu.be/UykqEvLl_30
-- Blog post link : http://devloydkim.blogspot.ca/2017/05/objective-c-how-to-make-html-image.html
+- Blog post link : https://loydioslab.blogspot.ca/2017/05/objective-c-how-to-make-html-image.html
 
 Thank you :)
